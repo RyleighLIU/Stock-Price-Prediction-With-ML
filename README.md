@@ -3,4 +3,4 @@ This is a course project of "Business Data Analysis and Mining", used 3 differen
 
 There are markdowns/notes wirtten in Chinese explaining the modeling procedures and the output.
 
-Any suggestion is welcome I'm still learning! XD
+*Any suggestion is welcome I'm still learning! XD*
